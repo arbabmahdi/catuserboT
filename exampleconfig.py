@@ -23,3 +23,5 @@ class Development(Config):
     EXTERNAL_REPO = "https://github.com/arbabmahdi/catuserboT"
     # if you need badcat plugins set "True"
     BADCAT = "True"
+    VCMODE = True
+     - VC_SESSION = New Session (Optional)
