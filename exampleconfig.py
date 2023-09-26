@@ -6,7 +6,7 @@ class Development(Config):
     APP_ID = 16173725
     API_HASH = "eb5276af00094ecb815e25aaf2901fcf"
     # the name to display in your alive message
-    ALIVE_NAME = "MeTi"
+    ALIVE_NAME = "meti"
     # create any PostgreSQL database (i recommend to use elephantsql) and paste that link here
     DB_URI = "postgres://ajfokoqg:aKDwhIV9HiM7zodOd9ppGSjIF8Aqa6GY@silly.db.elephantsql.com/ajfokoqg "
     # After cloning the repo and installing requirements do python3 stringsetup.py an fill that value with this
